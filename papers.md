@@ -14,9 +14,9 @@
   <li>S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, <a href="https://www.springerprofessional.de/en/momentum-acceleration-of-quasi-newton-training-for-neural-networ/17095012">“Momentum acceleration of quasi-Newton Training for Neural Networks”</a>, 16th Pacific Rim International Conference on Artificial Intelligence, PRICAI 2019, (pp. 268-281). Springer, Cham.</li>
   
   <li>S. Yasuda, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, <a href="https://ieeexplore.ieee.org/document/8999311">“A Stochastic Variance Reduced Nesterov's Accelerated Quasi-Newton
- Method” 2019 18th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2019</li>
+ Method”</a>, 2019 18th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2019</li>
  
-  <li><b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, <a href="https://ieeexplore.ieee.org/document/8614210">“Implementation of a modified Nesterov’s Accelerated quasi-Newton method on Tensorflow” 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2018.</li>
+  <li><b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, <a href="https://ieeexplore.ieee.org/document/8614210">“Implementation of a modified Nesterov’s Accelerated quasi-Newton method on Tensorflow”</a>, 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2018.</li>
   
   <li>R.V Sastry, S. Karthik, Adithya R, R. Aravind, <b>S. Indrapriyadarsini</b>, Gagandeep Panwar, A. G. Ramakrishnan, <a href="https://ieeexplore.ieee.org/abstract/document/9028973">"Calibration-free SSVEP-based BCI Switch"</a>, 16th IEEE India Council International Conference (INDICON 2019)</li>
   
@@ -37,17 +37,17 @@
 
  <h2> International Workshops and Symposiums </h2>
  <ul>
-<li>	<b>S. Indrapriyadarsini</b>, H. Ninomiya, M. Nishimura, <a href="url">“Accelerated Stochastic Quasi-Newton Methods for Training Neural Networks,” 8th International Symposium towards Future Advanced Research (ISFAR), Shizuoka University, Mar 2022 (Best Presentation Award)</li>
+<li>	<b>S. Indrapriyadarsini</b>, H. Ninomiya, M. Nishimura, “Accelerated Stochastic Quasi-Newton Methods for Training Neural Networks,” 8th International Symposium towards Future Advanced Research (ISFAR), Shizuoka University, Mar 2022 (Best Presentation Award)</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://neurips.cc/media/PosterPDFs/NeurIPS 2021/e00da03b685a0dd18fb6a08af0923de0_QxxwcQC.png">“Accelerating Symmetric Rank 1 Quasi-Newton Method with Nesterov’s Gradient”</a>, Affinity Workshop WiML NeurIPS, Dec 2021</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://arxiv.org/abs/2112.01327">“A modified limited memory Nesterov’s accelerated quasi-Newton”</a>, WiML Workshop, ICML Jul 2021</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://drive.google.com/file/d/1vCaf5PCfr50DYrZD2SrSkpG9T8DILhU7/view?usp=sharing">“VLSI Physical Design Automation using Deep Reinforcement Learning”</a>, WiML Workshop @ NeurIPS, Dec 2020.</li>
 <li> <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://youtu.be/ka7myLeeQ_U">“Applications of Deep Learning in Electronic Design Automation”</a>, Eastern European Machine Learning Summer School, EEML Jul 2020.</li>
-<li> <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, <a href="url">“A Modified Nesterov’s Accelerated quasi-Newton Method on Tensorflow,” 5th International Symposium towards Future Advanced Research (ISFAR), Shizuoka University, Mar 2019 </li>
+<li> <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, “A Modified Nesterov’s Accelerated quasi-Newton Method on Tensorflow,” 5th International Symposium towards Future Advanced Research (ISFAR), Shizuoka University, Mar 2019 </li>
   </ul>
   
  <h2> Domestic Conferences and Technical Meets (Peer reviewed) ・国内研究会発表（査読有）</h2>
  <ul>
-<li>	S. Yasuda, <b>S. Indrapriyadarsini</b>, H. Ninomiya, T. Kamio, H. Asai, “addHessian: Combining quasi-Newton method with first-order method for neural network training”</a>, Non-Linear Science Workshop, NOLTA IEICE, Dec 2021.</li>
+<li>	S. Yasuda, <b>S. Indrapriyadarsini</b>, H. Ninomiya, T. Kamio, H. Asai, “addHessian: Combining quasi-Newton method with first-order method for neural network training”, Non-Linear Science Workshop, NOLTA IEICE, Dec 2021.</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “A modified limited memory Nesterov’s accelerated quasi-Newton”</a>, NOLTAソサイエティ大会, IEICE, Jun 2021.</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “Neural Networkを用いたAnalog回路設計”</a>, 総合大会, IEICE, March 2020</li>
 <li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “慣性付メモリーレス準ニュートン学習法に関する研究”</a>, NOLTAソサイエティ大会, IEICE, Jun 2021.</li>
