@@ -1,7 +1,3 @@
-layout: page
-title: "List of Papers/Publications"
-permalink: /papers/
-
 <h1>Papers/Publications </h1>
 <h2> International Conferences </h2>
 <ul>
