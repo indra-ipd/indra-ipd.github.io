@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "List of Papers/Publications"
 permalink: /papers/
 
 <h1>Papers/Publications </h1>
