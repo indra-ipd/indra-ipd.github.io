@@ -21,9 +21,12 @@
 
 <h1>Experience</h1>
 <p style="text-align:left;">
-    ABC university
+    Aug - Dec 2020
+	<span style="float:center;">
+        ABC university
+    </span>
     <span style="float:right;">
-        Aug - Dec 2020
+        XYZ
     </span>
 </p>
                       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b> IBM RESEARCH </b>  	<div style="float: right"> Hakozaki, Tokyo, (Japan)</div></br>
