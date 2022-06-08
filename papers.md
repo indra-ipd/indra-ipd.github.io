@@ -68,7 +68,7 @@
  
  <h2> Talks</h2>
 <ul>
-  <li> ICLR 2022 Socials : <i>“Optimization in ML and DL - A discussion on theory and practice”</i>
+  <li> ICLR 2022 Socials : <a href="https://iclr.cc/virtual/2022/social/8739" target="_blank" rel="noopener noreferrer"> <i>“Optimization in ML and DL - A discussion on theory and practice”</i></a>
   </li>
   <li> WiML Workshop Socials @NeurIPS 2021 : <i>“Optimization Techniques” </i>
   </li>
