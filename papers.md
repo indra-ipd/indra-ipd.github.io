@@ -37,7 +37,7 @@
 
  <h2> International Workshops and Symposiums </h2>
  <ul>
-<li>	<b>S. Indrapriyadarsini</b>, H. Ninomiya, M. Nishimura, “Accelerated Stochastic Quasi-Newton Methods for Training Neural Networks,” <i>8th International Symposium towards Future Advanced Research (ISFAR)</i>, Shizuoka University, Mar 2022 (Best Presentation Award)</li>
+<li>	<b>S. Indrapriyadarsini</b>, H. Ninomiya, M. Nishimura, “Accelerated Stochastic Quasi-Newton Methods for Training Neural Networks,” <i>8th International Symposium towards Future Advanced Research (ISFAR)</i>, Shizuoka University, Mar 2022 (<i><b>Best Presentation Award</b></i>)</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://neurips.cc/media/PosterPDFs/NeurIPS 2021/e00da03b685a0dd18fb6a08af0923de0_QxxwcQC.png" target="_blank" rel="noopener noreferrer">“Accelerating Symmetric Rank 1 Quasi-Newton Method with Nesterov’s Gradient”</a>, <i>Affinity Workshop WiML NeurIPS</i>, Dec 2021</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://arxiv.org/abs/2112.01327" target="_blank" rel="noopener noreferrer">“A modified limited memory Nesterov’s accelerated quasi-Newton”</a>, <i>WiML Workshop, ICML</i> Jul 2021</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://drive.google.com/file/d/1vCaf5PCfr50DYrZD2SrSkpG9T8DILhU7/view?usp=sharing" target="_blank" rel="noopener noreferrer">“VLSI Physical Design Automation using Deep Reinforcement Learning”</a>, <i>WiML Workshop @ NeurIPS</i>, Dec 2020.</li>
@@ -64,4 +64,12 @@
 <li>	Y.  Sato, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “ネステロフの加速勾配を用いたBarzilai-Borwein法の高速化”</a>,<i> 総合大会,</i> IEICE, Jan 2019 </li>
 <li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “On the Influence of Momentum term in quasi-Newton method”</a>, <i>信学技報,</i> vol. 118, no. 498, NLP2018-137, pp. 69-74, Mar 2018 </li>
 
+ </ul>
+ 
+ <h2> Talks</h2>
+<ul>
+  <li> ICLR 2022 Socials : <i>“Optimization in ML and DL - A discussion on theory and practice”</i>
+  </li>
+  <li> WiML Workshop Socials @NeurIPS 2021 : <i>“Optimization Techniques” </i>
+  </li>
  </ul>
