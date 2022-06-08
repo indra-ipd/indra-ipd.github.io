@@ -48,21 +48,21 @@
  <h2> Domestic Conferences and Technical Meets (Peer reviewed) ・国内研究会発表（査読有）</h2>
  <ul>
 <li>	S. Yasuda, <b>S. Indrapriyadarsini</b>, H. Ninomiya, T. Kamio, H. Asai, “addHessian: Combining quasi-Newton method with first-order method for neural network training”, <i>Non-Linear Science Workshop, NOLTA</i> IEICE, Dec 2021.</li>
-<li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “A modified limited memory Nesterov’s accelerated quasi-Newton”</a>, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
-<li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “Neural Networkを用いたAnalog回路設計”</a>, <i>総合大会</i>, IEICE, March 2020</li>
-<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “慣性付メモリーレス準ニュートン学習法に関する研究”</a>,<i> NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
-<li>	S. Yasuda, <b>S. Indrapriyadarsini</b>, H. Ninomiya, T. Kamio, H. Asai, “ニューラルネットワーク学習のための適応的な分散低減二次手法”</a>, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
-<li>	K. Fujise, <b>S. Indrapriyadarsini</b>, T. Kamio, H. Ninomiya, H. Asai, “マルチエージェント深層強化学習による自動配線”</a>, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
-<li>	Bhargava R V, <b>S. Indrapriyadarsini</b>, T. Kamio, H. Ninomiya, H. Asai, “A Reinforcement Learning based Image Preprocessing for Object Detection”</a>, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
-<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “適応的慣性項を用いた準ニュートン学習法に関する研究”</a>, <i>総合大会</i>, 広島, IEICE, Mar 2020</li>
+<li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “A modified limited memory Nesterov’s accelerated quasi-Newton”, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
+<li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, “Neural Networkを用いたAnalog回路設計”, <i>総合大会</i>, IEICE, March 2020</li>
+<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “慣性付メモリーレス準ニュートン学習法に関する研究”,<i> NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
+<li>	S. Yasuda, <b>S. Indrapriyadarsini</b>, H. Ninomiya, T. Kamio, H. Asai, “ニューラルネットワーク学習のための適応的な分散低減二次手法”, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
+<li>	K. Fujise, <b>S. Indrapriyadarsini</b>, T. Kamio, H. Ninomiya, H. Asai, “マルチエージェント深層強化学習による自動配線”, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
+<li>	Bhargava R V, <b>S. Indrapriyadarsini</b>, T. Kamio, H. Ninomiya, H. Asai, “A Reinforcement Learning based Image Preprocessing for Object Detection”, <i>NOLTAソサイエティ大会</i>, IEICE, Jun 2021.</li>
+<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “適応的慣性項を用いた準ニュートン学習法に関する研究”, <i>総合大会</i>, 広島, IEICE, Mar 2020</li>
 <li>	S. Mahboubi, R.  Yamatomi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “On the study of Memory-Less quasi-Newton Method with Momentum Term for Neural Network Training”</a>, <i>Non-Linear Science Workshop, NOLTA</i> IEICE, Dec 2021.</li>
-<li>	S. Yasuda, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “確率的分散低減を用いたネステロフの加速準ニュートン法”</a>, <i>総合大会,</i> 広島, IEICE, Mar 2020 </li>
-<li>	S.  Kitagawa, <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, “Knowledge Based Neural Network の概念を用いた学習モデルの効率について”</a>, <i>電気学会電子回路研究会,</i> ECT-019-086, IEE Japan, Dec 2019 </li>
-<li>	K. Fujise, <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, “様々な最適化法におけるCascade-correlationの性能調査”</a>,<i> 電気学会電子回路研究会,</i> ECT-019-093, IEE Japan, Dec 2019 </li>
-<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “準ニュートン法における慣性項の影響に関する研究”</a>, <i>信学技報,</i> vol. 118, no. 498, NLP2018-137, pp. 69-74, Mar 2019 </li>
-<li>	Abhishek D, Bhargava R V, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “Neural Network Assistance for Determining Circuit Design Parameters”</a>,<i> 電気学会電子回路研究会,</i> ECT-019-088, IEE Japan, Dec 2019 </li>
-<li>	Y.  Sato, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “ネステロフの加速勾配を用いたBarzilai-Borwein法の高速化”</a>,<i> 総合大会,</i> IEICE, Jan 2019 </li>
-<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “On the Influence of Momentum term in quasi-Newton method”</a>, <i>信学技報,</i> vol. 118, no. 498, NLP2018-137, pp. 69-74, Mar 2018 </li>
+<li>	S. Yasuda, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “確率的分散低減を用いたネステロフの加速準ニュートン法”, <i>総合大会,</i> 広島, IEICE, Mar 2020 </li>
+<li>	S.  Kitagawa, <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, “Knowledge Based Neural Network の概念を用いた学習モデルの効率について”, <i>電気学会電子回路研究会,</i> ECT-019-086, IEE Japan, Dec 2019 </li>
+<li>	K. Fujise, <b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, “様々な最適化法におけるCascade-correlationの性能調査”,<i> 電気学会電子回路研究会,</i> ECT-019-093, IEE Japan, Dec 2019 </li>
+<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “準ニュートン法における慣性項の影響に関する研究”, <i>信学技報,</i> vol. 118, no. 498, NLP2018-137, pp. 69-74, Mar 2019 </li>
+<li>	Abhishek D, Bhargava R V, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “Neural Network Assistance for Determining Circuit Design Parameters”,<i> 電気学会電子回路研究会,</i> ECT-019-088, IEE Japan, Dec 2019 </li>
+<li>	Y.  Sato, S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “ネステロフの加速勾配を用いたBarzilai-Borwein法の高速化”,<i> 総合大会,</i> IEICE, Jan 2019 </li>
+<li>	S. Mahboubi, <b>S. Indrapriyadarsini</b>, H. Ninomiya, H. Asai, “On the Influence of Momentum term in quasi-Newton method”, <i>信学技報,</i> vol. 118, no. 498, NLP2018-137, pp. 69-74, Mar 2018 </li>
 
  </ul>
  
