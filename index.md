@@ -1,5 +1,9 @@
 
 <h1><a href="https://indra-ipd.github.io/papers">List of Papers/Publications </a></h1>
+
+<h1> <a href="https://github.com/indra-ipd/indra-ipd.github.io/blob/main/thesis_draft.pdf"> PhD Dissertation </a></h1> 
+<h1> <a href="https://github.com/indra-ipd/indra-ipd.github.io/blob/main/Thesis_Slides.pdf"> PhD Dissertation Slides </a></h1> 
+
   
   
 <!---
