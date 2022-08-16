@@ -25,7 +25,7 @@
 
  <h2> Journals </h2>
  <ul>
-  <li><b>S. Indrapriyadarsini</b>, H. Ninomiya,  M. Nishimura, “On the Convergence of Stochastic Accelerated quasi-Newton Methods for Neural Networks”</a>, <i>(Under Review)</i> 2022  </li>
+  <li><b>S. Indrapriyadarsini</b>, H. Ninomiya,  M. Nishimura, “On the Convergence of Stochastic Accelerated quasi-Newton Methods for Neural Networks”, <i>(Under Review)</i> 2022  </li>
 <li><b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://www.mdpi.com/1999-4893/15/1/6" target="_blank" rel="noopener noreferrer">“Accelerating Symmetric Rank 1 Quasi-Newton Method with Nesterov’s Gradient”</a>, <i>Algorithms</i> 2022, 15(1), 6;  </li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, T. Kamio, H. Asai, <a href="https://www.jstage.jst.go.jp/article/nolta/12/3/12_323/_article" target="_blank" rel="noopener noreferrer">“A Nesterov’s Accelerated quasi-Newton method for Global Routing using Deep Reinforcement Learning”</a>, <i>NOLTA Journal</i>, Vol. 12(3), pp. 323-335, IEICE, Jul 2021 (<i><b>Invited Paper</b></i>)</li>
 <li>	<b>S. Indrapriyadarsini</b>, S. Mahboubi, H. Ninomiya, H. Asai, <a href="https://www.jstage.jst.go.jp/article/nolta/11/4/11_409/_article" target="_blank" rel="noopener noreferrer">“aSNAQ: An Adaptive Stochastic Nesterov Accelerated Quasi Newton Method for Training RNNs”</a>, <i>NOLTA Journal</i>, IEICE, Vol.E11-N, No.4, pp. 409-421, Oct. 2020 (<i><b>Invited Paper</b></i>)</li>
